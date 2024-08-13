@@ -1,6 +1,6 @@
 public class Pessoa {
 
-private string nome;
+private string? nome;
 private int idade;
 
 public Pessoa(string nome, int idade){
