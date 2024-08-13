@@ -1,0 +1,5 @@
+dotnet new console -n aula03 // Comando de criar projeto
+
+cd aula03 // Acessar pasta do projeto
+
+dotnet run // Executar o projeto

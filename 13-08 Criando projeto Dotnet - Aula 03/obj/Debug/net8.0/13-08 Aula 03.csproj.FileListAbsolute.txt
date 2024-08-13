@@ -1,0 +1,30 @@
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/bin/Debug/net8.0/13-08 Aula 03
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/bin/Debug/net8.0/13-08 Aula 03.deps.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/bin/Debug/net8.0/13-08 Aula 03.runtimeconfig.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/bin/Debug/net8.0/13-08 Aula 03.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/bin/Debug/net8.0/13-08 Aula 03.pdb
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/13-08 Aula 03.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/13-08 Aula 03.AssemblyInfoInputs.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/13-08 Aula 03.AssemblyInfo.cs
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/13-08 Aula 03.csproj.CoreCompileInputs.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/13-08 Aula 03.sourcelink.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/13-08 Aula 03.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/refint/13-08 Aula 03.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/13-08 Aula 03.pdb
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/13-08 Aula 03.genruntimeconfig.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03/obj/Debug/net8.0/ref/13-08 Aula 03.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/bin/Debug/net8.0/13-08 Aula 03
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/bin/Debug/net8.0/13-08 Aula 03.deps.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/bin/Debug/net8.0/13-08 Aula 03.runtimeconfig.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/bin/Debug/net8.0/13-08 Aula 03.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/bin/Debug/net8.0/13-08 Aula 03.pdb
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/13-08 Aula 03.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/13-08 Aula 03.AssemblyInfoInputs.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/13-08 Aula 03.AssemblyInfo.cs
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/13-08 Aula 03.csproj.CoreCompileInputs.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/13-08 Aula 03.sourcelink.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/13-08 Aula 03.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/refint/13-08 Aula 03.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/13-08 Aula 03.pdb
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/13-08 Aula 03.genruntimeconfig.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Aula 03 Criando projeto/obj/Debug/net8.0/ref/13-08 Aula 03.dll
