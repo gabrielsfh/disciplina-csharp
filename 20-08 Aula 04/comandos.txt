@@ -4,5 +4,5 @@
 
 // git status (ver os status)
 // git add . (adicionar todos os arquivos)
-// git commit -m "" (adicionar um commit)
-// git push 
+// git commit -m "" (adiciona um commit local e sua mensagem)
+// git push origin main (envia o commit para o remoto)
