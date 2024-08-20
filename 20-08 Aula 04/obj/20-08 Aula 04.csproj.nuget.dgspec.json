@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Criando projeto Dotnet - Aula 03/13-08 Aula 03.csproj": {}
+    "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/20-08 Aula 04.csproj": {}
   },
   "projects": {
-    "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Criando projeto Dotnet - Aula 03/13-08 Aula 03.csproj": {
+    "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/20-08 Aula 04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Criando projeto Dotnet - Aula 03/13-08 Aula 03.csproj",
-        "projectName": "13-08 Aula 03",
-        "projectPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Criando projeto Dotnet - Aula 03/13-08 Aula 03.csproj",
+        "projectUniqueName": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/20-08 Aula 04.csproj",
+        "projectName": "20-08 Aula 04",
+        "projectPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/20-08 Aula 04.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/13-08 Criando projeto Dotnet - Aula 03/obj/",
+        "outputPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

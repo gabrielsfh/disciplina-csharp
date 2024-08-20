@@ -1,0 +1,15 @@
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/bin/Debug/net8.0/20-08 Aula 04
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/bin/Debug/net8.0/20-08 Aula 04.deps.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/bin/Debug/net8.0/20-08 Aula 04.runtimeconfig.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/bin/Debug/net8.0/20-08 Aula 04.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/bin/Debug/net8.0/20-08 Aula 04.pdb
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/20-08 Aula 04.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/20-08 Aula 04.AssemblyInfoInputs.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/20-08 Aula 04.AssemblyInfo.cs
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/20-08 Aula 04.csproj.CoreCompileInputs.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/20-08 Aula 04.sourcelink.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/20-08 Aula 04.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/refint/20-08 Aula 04.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/20-08 Aula 04.pdb
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/20-08 Aula 04.genruntimeconfig.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/20-08 Aula 04/obj/Debug/net8.0/ref/20-08 Aula 04.dll

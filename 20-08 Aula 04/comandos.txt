@@ -1,0 +1,8 @@
+// Ls visualiza todos os arquivos na pasta
+// Touch cria arquivo pelo terminal
+// Nano cria arquivo pelo GNU?
+
+// git status (ver os status)
+// git add . (adicionar todos os arquivos)
+// git commit -m "" (adicionar um commit)
+// git push 
