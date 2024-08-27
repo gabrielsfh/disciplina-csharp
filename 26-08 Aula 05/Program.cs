@@ -13,7 +13,7 @@
         string textoValor = "123";
         int textoConvertidoInt = textoConvertidoInt.ToInt32(textoValor);
 
-        Console.WriteLine($"Double: {valorDouble}, Inteiro: {valorConvertidoInt}"
+        Console.WriteLine($"Double: {valorDouble}, Inteiro: {valorConvertidoInt}");
         Console.WriteLine($"String: {textoValor}, Inteiro {textoConvertidoInt}");
     }
 }
