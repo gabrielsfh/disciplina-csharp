@@ -1,35 +1,36 @@
-public class Produto {
-    public int id;
-    public string nome;
-    public decimal preco;
+public class Produto
+{
+    private int id;
+    private string nome;
+    private decimal preco;
 
-
-    public Produto (id, nome, produto){
-        id = Id;
-        nome = Nome;
-        preco = Preco;
+    public Produto(int id, string nome, decimal preco)
+    {
+        Id = id;
+        Nome = nome;
+        Preco = preco;
     }
 
-    public int id{
-    get { return id; }
-    set { id = value; }
-}
+    public int Id
+    {
+        get { return id; }
+        set { id = value; }
+    }
 
+    public string Nome
+    {
+        get { return nome; }
+        set { nome = value; }
+    }
 
-    public string Nome{
-    get { return nome; }
-    set { nome = value; }
-}
+    public decimal Preco
+    {
+        get { return preco; }
+        set { preco = value; }
+    }
 
-
-public decimal produto{
-    get { return nome; }
-    set { nome = value; }
-}
-
-
-
-
-
-
+    public override string ToString()
+    {
+        return $"Id: {id}, Nome do produto: {nome}, Preço: {preco:C}";
+    }
 }

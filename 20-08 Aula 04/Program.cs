@@ -1,12 +1,12 @@
 ﻿using System;
 
-class Program{
-    
+class Program
+{
 
-
-    public static void Main(string[] args){
+    public static void Main(string[] args)
+    {
         //Pessoa objPessoa = new("José"); 
-        Pessoa objPessoa = new Pessoa("José"); 
+        Pessoa objPessoa = new Pessoa("José");
         Console.WriteLine("Antes do método AlterarNomeClasse (Classe):" + objPessoa.ToString());
         AlterarNomeClasse(objPessoa);
         Console.WriteLine("Depois do método AlterarNomeClasse (Classe): " + objPessoa.ToString());
@@ -17,11 +17,13 @@ class Program{
         Console.WriteLine("Depois do método (struct): " + pessoaStruct.ToString());
     }
 
-    public static void AlterarNomeClasse(Pessoa objAux){
+    public static void AlterarNomeClasse(Pessoa objAux)
+    {
         objAux.Nome = "Josefina";
     }
 
-    public static void AlterarNomeStruct(PessoaStruct objAux){
+    public static void AlterarNomeStruct(PessoaStruct objAux)
+    {
         objAux.NomeStruct = "Maria";
     }
 }

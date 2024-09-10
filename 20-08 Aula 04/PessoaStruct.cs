@@ -1,16 +1,20 @@
-public struct PessoaStruct{
+public struct PessoaStruct
+{
     private string nomeStruct = "";
 
-    public string NomeStruct{
+    public string NomeStruct
+    {
         get { return nomeStruct; }
         set { nomeStruct = value; }
     }
 
-    public PessoaStruct(string nomeStruct){
+    public PessoaStruct(string nomeStruct)
+    {
         NomeStruct = nomeStruct;
     }
 
-    public override string ToString(){
+    public override string ToString()
+    {
         return $"NomeStruct: {NomeStruct}";
     }
 }

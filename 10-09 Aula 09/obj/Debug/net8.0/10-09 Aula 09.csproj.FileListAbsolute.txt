@@ -1,0 +1,15 @@
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/10-09 Aula 09.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/10-09 Aula 09.AssemblyInfoInputs.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/10-09 Aula 09.AssemblyInfo.cs
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/10-09 Aula 09.csproj.CoreCompileInputs.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/10-09 Aula 09.sourcelink.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/bin/Debug/net8.0/10-09 Aula 09
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/bin/Debug/net8.0/10-09 Aula 09.deps.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/bin/Debug/net8.0/10-09 Aula 09.runtimeconfig.json
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/bin/Debug/net8.0/10-09 Aula 09.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/bin/Debug/net8.0/10-09 Aula 09.pdb
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/10-09 Aula 09.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/refint/10-09 Aula 09.dll
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/10-09 Aula 09.pdb
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/10-09 Aula 09.genruntimeconfig.cache
+/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/10-09 Aula 09/obj/Debug/net8.0/ref/10-09 Aula 09.dll
