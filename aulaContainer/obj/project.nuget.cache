@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3wwVXuWSlxM=",
+  "dgSpecHash": "7OBy5DzgECQ=",
   "success": true,
   "projectFilePath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aulaContainer/aulaContainer.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,8 @@
     "/home/codespace/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/npgsql/8.0.5/npgsql.8.0.5.nupkg.sha512",
+    "/home/codespace/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.10/npgsql.entityframeworkcore.postgresql.8.0.10.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.composition/6.0.0/system.composition.6.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula13/aula13_OTM/aula13_OTM.csproj": {}
+    "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula13/aula13_OTM/aula13_OTM.csproj": {}
   },
   "projects": {
-    "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula13/aula13_OTM/aula13_OTM.csproj": {
+    "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula13/aula13_OTM/aula13_OTM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula13/aula13_OTM/aula13_OTM.csproj",
+        "projectUniqueName": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula13/aula13_OTM/aula13_OTM.csproj",
         "projectName": "aula13_OTM",
-        "projectPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula13/aula13_OTM/aula13_OTM.csproj",
+        "projectPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula13/aula13_OTM/aula13_OTM.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula13/aula13_OTM/obj/",
+        "outputPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula13/aula13_OTM/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -42,6 +42,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -2,10 +2,10 @@ using Microsoft.EntityFrameworkCore;
 
 public class AppDbContext : DbContext
 {
-    public DbSet<Pessoa> Pessoas { get; set; } = null!; // Use null! to suppress nullability warnings
+    public DbSet<Pessoa> Pessoas { get; set; } = null!; 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Host=localhost;Database=pessoasdb;Username=admin;Password=admin123");
+        optionsBuilder.UseNpgsql("Host=localhost;Database=pessoadb;Username=admin;Password=admin123");
     }
 }
