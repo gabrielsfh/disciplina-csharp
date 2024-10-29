@@ -1,4 +1,4 @@
-namespace aula13_MTM
+namespace aula13_MTMPostgreSQL
 {
     public class Pessoa
     {
