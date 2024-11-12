@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HY68ShGD0YU=",
+  "dgSpecHash": "vcHNZM/9M9A=",
   "success": true,
-  "projectFilePath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula11_EntityFramework/24-09 Aula 11 Entity Framework.csproj",
+  "projectFilePath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula11_EntityFramework/24-09 Aula 11 Entity Framework.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.data.sqlite.core/8.0.8/microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.entityframeworkcore/8.0.8/microsoft.entityframeworkcore.8.0.8.nupkg.sha512",

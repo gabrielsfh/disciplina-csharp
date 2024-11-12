@@ -1050,11 +1050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula11_EntityFramework/24-09 Aula 11 Entity Framework.csproj",
+      "projectUniqueName": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula11_EntityFramework/24-09 Aula 11 Entity Framework.csproj",
       "projectName": "24-09 Aula 11 Entity Framework",
-      "projectPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula11_EntityFramework/24-09 Aula 11 Entity Framework.csproj",
+      "projectPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula11_EntityFramework/24-09 Aula 11 Entity Framework.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/Aula11_EntityFramework/obj/",
+      "outputPath": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula11_EntityFramework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

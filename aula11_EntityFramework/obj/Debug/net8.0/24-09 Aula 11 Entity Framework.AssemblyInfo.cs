@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("24-09 Aula 11 Entity Framework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffeb7ce8c1f66f03a9e57944e7a005cabb11bfac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21cd1bbf1c5c70d6b6a2bf7a2bb4aeefc038d525")]
 [assembly: System.Reflection.AssemblyProductAttribute("24-09 Aula 11 Entity Framework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("24-09 Aula 11 Entity Framework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

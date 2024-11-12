@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula14_Blazer/obj/Debug/net8.0/scopedcss/projectbundle/aula14_Blazer.bundle.scp.css",
+      "PackagePath": "staticwebassets/aula14_Blazer.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula14_Blazer/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula14_Blazer/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula14_Blazer/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Desenvolvimento-Sistemas-Informacao-Avancados/aula14_Blazer/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.aula14_Blazer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.aula14_Blazer.props",
+      "PackagePath": "build\\aula14_Blazer.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.aula14_Blazer.props",
+      "PackagePath": "buildMultiTargeting\\aula14_Blazer.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.aula14_Blazer.props",
+      "PackagePath": "buildTransitive\\aula14_Blazer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
