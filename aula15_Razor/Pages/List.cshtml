@@ -1,0 +1,15 @@
+﻿@page
+@model MyApp.Namespace.ListModel
+@{
+    ViewData["Title"] = "Lista de itens";
+}
+
+<h1>Lista de itens</h1>
+
+<ul>
+    @foreach(var item in Model.Items){
+        <li>@item</li>
+    }
+</ul>
+
+<a asp-page="Add">Adicionar Novo Item</a>

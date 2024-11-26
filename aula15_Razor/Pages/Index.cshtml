@@ -1,0 +1,16 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<h1>Bem-Vindo ao Razor Pages</h1>
+
+<form action="post">
+    <label for="name">Digite o seu nome: </label>
+    <input id="name" name="Name" type="text">
+    <button type="submit">Enviar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Message)){
+    <p>@Model.Message</p>
+}
